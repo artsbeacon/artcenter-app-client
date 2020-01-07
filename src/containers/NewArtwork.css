@@ -1,0 +1,8 @@
+.NewArtwork form {
+    padding-bottom: 15px;
+  }
+  
+  .NewArtwork form textarea {
+    height: 300px;
+    font-size: 24px;
+  }
